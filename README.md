@@ -1,1 +1,1 @@
-# Projekt
+# Projektni zadatak (HTML, CSS)
