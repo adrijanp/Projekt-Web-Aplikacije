@@ -9,7 +9,6 @@ html {
 header {
   display: block;
   width: 100%;
-  /*position: fixed;*/
 }
 .header-slika {
   background-image: url("img/naslov-ferrari2.png");
@@ -18,7 +17,6 @@ header {
   background-size: cover;
   position: relative;
   height: 350px;
-  /*background-attachment: fixed;*/
 }
 nav {
   width: 100%;
@@ -170,8 +168,6 @@ textarea {
   border-radius: 4px;
   background-color: #fff;
 }
-/*input[type="submit"] {
-input[type="submit"]:hover {*/
 #submit {
   background-color: #fff;
   color: #303030;
